@@ -5,7 +5,7 @@
 Backend Developer
 ------------------
 * 🌍  I'm based in Pune, India
-* 🧠  I'm learning SpringBoot Microservice
+* 🧠  Proficient in SpringBoot, Vert.x, MyBatis, Hibernate, Python.
 ************************************************************************************
 
 <p align="center"> <b><i>Skills</i> </b></p>
